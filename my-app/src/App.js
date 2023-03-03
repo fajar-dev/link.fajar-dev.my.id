@@ -38,7 +38,7 @@ function App() {
                   <div class="row justify-content-center">
                     <div class="col-lg-6 text-center mt-4">
                       <div class="mt-3">
-                        <a href="https://fajar-dev.github.io/" class="btn btn-warning w-75 me-0 ms-0 pt-2 display-4">CURRRICULUM VITAE</a>
+                        <a href="https://fajar-dev.github.io/" class="btn btn-warning w-75 me-0 ms-0 pt-2 display-4">PORTFOLIO</a>
                         <div class="hover"></div>
                       </div>
                       <div class="mt-3">
